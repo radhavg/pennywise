@@ -30,5 +30,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [
+    "expenses",
+    "tracker",
+    "penny",
+    "spend",
+    "wisely"
+  ],
+  "author": "@Radha",
+  "license": "ISC"
 }
