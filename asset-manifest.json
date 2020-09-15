@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pennywise/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pennywise/static/js/main.c15ab849.chunk.js",
+    "main.js.map": "/pennywise/static/js/main.c15ab849.chunk.js.map",
+    "runtime-main.js": "/pennywise/static/js/runtime-main.22cb1b4f.js",
+    "runtime-main.js.map": "/pennywise/static/js/runtime-main.22cb1b4f.js.map",
+    "static/js/2.309516e1.chunk.js": "/pennywise/static/js/2.309516e1.chunk.js",
+    "static/js/2.309516e1.chunk.js.map": "/pennywise/static/js/2.309516e1.chunk.js.map",
+    "index.html": "/pennywise/index.html",
+    "precache-manifest.7e0e5c3267d6f98f39bf30fa25a90a66.js": "/pennywise/precache-manifest.7e0e5c3267d6f98f39bf30fa25a90a66.js",
+    "service-worker.js": "/pennywise/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pennywise/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.309516e1.chunk.js.LICENSE.txt": "/pennywise/static/js/2.309516e1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pennywise/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22cb1b4f.js",
+    "static/js/2.309516e1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c15ab849.chunk.js"
+  ]
+}
